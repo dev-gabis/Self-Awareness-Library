@@ -1,3 +1,10 @@
+
+
+# Self-Awareness Library
+
+
+Welcome to the Public Awareness Books API 📚 repository, an API developed to promote public awareness and education through literature. This API provides information on impactful books that address various social issues, their authors, and detailed descriptions of their significance. Additionally, users can rate and review these books, contributing to a community-driven resource for public knowledge and enlightenment.
+
 ## Project Setup
 
 To run this API locally, follow the steps below:
